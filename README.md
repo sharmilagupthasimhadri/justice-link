@@ -108,13 +108,13 @@ Maps user queries to relevant Indian legal provisions while keeping explanations
 Clone the repository
 
 ```bash
-git clone https://github.com/amrutha-k12/justice-link-choice-of-public.git
+git clone https://github.com/sharmilagupthasimhadri/justice-link.git 
 ```
 
 Move into the project
 
 ```bash
-cd justice-link-choice-of-public
+cd justice-link
 ```
 
 Install dependencies
@@ -210,7 +210,7 @@ The platform does **not** constitute legal advice and should not be considered a
 
 ## 👩‍💻 Contributors
 
-- Amrutha Koyyalamudi
+- Sharmila Guptha Simhadri
 ---
 
 ## ⭐ Support
