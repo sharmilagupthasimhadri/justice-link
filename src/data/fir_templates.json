@@ -1,0 +1,19 @@
+{
+  "FIR-CYBER-001": {
+    "title": "Cyber Fraud Complaint",
+    "fields": [
+      "victim_name",
+      "incident_date",
+      "amount_lost",
+      "bank_details"
+    ]
+  },
+  "FIR-THEFT-001": {
+    "title": "Theft Complaint",
+    "fields": [
+      "item_stolen",
+      "location",
+      "date"
+    ]
+  }
+}

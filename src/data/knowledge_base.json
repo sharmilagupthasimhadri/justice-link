@@ -1,0 +1,1233 @@
+{
+  "metadata": {
+    "name": "JusticeLink Expanded Knowledge Base",
+    "version": "2.0",
+    "records": 102
+  },
+  "laws": [
+    {
+      "section": "302",
+      "title": "Murder",
+      "category": "Human Body",
+      "keywords": [
+        "murder",
+        "human body",
+        "302"
+      ],
+      "description": "Legal provision related to murder.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "304A",
+      "title": "Causing Death by Negligence",
+      "category": "Human Body",
+      "keywords": [
+        "causing death by negligence",
+        "human body",
+        "304A"
+      ],
+      "description": "Legal provision related to causing death by negligence.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "307",
+      "title": "Attempt to Murder",
+      "category": "Human Body",
+      "keywords": [
+        "attempt to murder",
+        "human body",
+        "307"
+      ],
+      "description": "Legal provision related to attempt to murder.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "323",
+      "title": "Voluntarily Causing Hurt",
+      "category": "Human Body",
+      "keywords": [
+        "voluntarily causing hurt",
+        "human body",
+        "323"
+      ],
+      "description": "Legal provision related to voluntarily causing hurt.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "324",
+      "title": "Hurt by Dangerous Weapons",
+      "category": "Human Body",
+      "keywords": [
+        "hurt by dangerous weapons",
+        "human body",
+        "324"
+      ],
+      "description": "Legal provision related to hurt by dangerous weapons.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "325",
+      "title": "Grievous Hurt",
+      "category": "Human Body",
+      "keywords": [
+        "grievous hurt",
+        "human body",
+        "325"
+      ],
+      "description": "Legal provision related to grievous hurt.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "326",
+      "title": "Grievous Hurt by Dangerous Weapons",
+      "category": "Human Body",
+      "keywords": [
+        "grievous hurt by dangerous weapons",
+        "human body",
+        "326"
+      ],
+      "description": "Legal provision related to grievous hurt by dangerous weapons.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "326A",
+      "title": "Acid Attack",
+      "category": "Women Safety",
+      "keywords": [
+        "acid attack",
+        "women safety",
+        "326A"
+      ],
+      "description": "Legal provision related to acid attack.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "341",
+      "title": "Wrongful Restraint",
+      "category": "Liberty",
+      "keywords": [
+        "wrongful restraint",
+        "liberty",
+        "341"
+      ],
+      "description": "Legal provision related to wrongful restraint.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "342",
+      "title": "Wrongful Confinement",
+      "category": "Liberty",
+      "keywords": [
+        "wrongful confinement",
+        "liberty",
+        "342"
+      ],
+      "description": "Legal provision related to wrongful confinement.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "354",
+      "title": "Outraging Modesty of Woman",
+      "category": "Women Safety",
+      "keywords": [
+        "outraging modesty of woman",
+        "women safety",
+        "354"
+      ],
+      "description": "Legal provision related to outraging modesty of woman.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "354A",
+      "title": "Sexual Harassment",
+      "category": "Women Safety",
+      "keywords": [
+        "sexual harassment",
+        "women safety",
+        "354A"
+      ],
+      "description": "Legal provision related to sexual harassment.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "354B",
+      "title": "Disrobing Woman",
+      "category": "Women Safety",
+      "keywords": [
+        "disrobing woman",
+        "women safety",
+        "354B"
+      ],
+      "description": "Legal provision related to disrobing woman.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "354C",
+      "title": "Voyeurism",
+      "category": "Women Safety",
+      "keywords": [
+        "voyeurism",
+        "women safety",
+        "354C"
+      ],
+      "description": "Legal provision related to voyeurism.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "354D",
+      "title": "Stalking",
+      "category": "Women Safety",
+      "keywords": [
+        "stalking",
+        "women safety",
+        "354D"
+      ],
+      "description": "Legal provision related to stalking.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "363",
+      "title": "Kidnapping",
+      "category": "Kidnapping",
+      "keywords": [
+        "kidnapping",
+        "kidnapping",
+        "363"
+      ],
+      "description": "Legal provision related to kidnapping.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "364",
+      "title": "Kidnapping to Murder",
+      "category": "Kidnapping",
+      "keywords": [
+        "kidnapping to murder",
+        "kidnapping",
+        "364"
+      ],
+      "description": "Legal provision related to kidnapping to murder.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "364A",
+      "title": "Kidnapping for Ransom",
+      "category": "Kidnapping",
+      "keywords": [
+        "kidnapping for ransom",
+        "kidnapping",
+        "364A"
+      ],
+      "description": "Legal provision related to kidnapping for ransom.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "366",
+      "title": "Kidnapping Woman for Marriage",
+      "category": "Women Safety",
+      "keywords": [
+        "kidnapping woman for marriage",
+        "women safety",
+        "366"
+      ],
+      "description": "Legal provision related to kidnapping woman for marriage.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "370",
+      "title": "Human Trafficking",
+      "category": "Human Trafficking",
+      "keywords": [
+        "human trafficking",
+        "human trafficking",
+        "370"
+      ],
+      "description": "Legal provision related to human trafficking.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "375",
+      "title": "Rape",
+      "category": "Women Safety",
+      "keywords": [
+        "rape",
+        "women safety",
+        "375"
+      ],
+      "description": "Legal provision related to rape.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "376",
+      "title": "Punishment for Rape",
+      "category": "Women Safety",
+      "keywords": [
+        "punishment for rape",
+        "women safety",
+        "376"
+      ],
+      "description": "Legal provision related to punishment for rape.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "376D",
+      "title": "Gang Rape",
+      "category": "Women Safety",
+      "keywords": [
+        "gang rape",
+        "women safety",
+        "376D"
+      ],
+      "description": "Legal provision related to gang rape.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "378",
+      "title": "Theft",
+      "category": "Property",
+      "keywords": [
+        "theft",
+        "property",
+        "378"
+      ],
+      "description": "Legal provision related to theft.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "379",
+      "title": "Punishment for Theft",
+      "category": "Property",
+      "keywords": [
+        "punishment for theft",
+        "property",
+        "379"
+      ],
+      "description": "Legal provision related to punishment for theft.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "380",
+      "title": "Theft in Dwelling House",
+      "category": "Property",
+      "keywords": [
+        "theft in dwelling house",
+        "property",
+        "380"
+      ],
+      "description": "Legal provision related to theft in dwelling house.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "381",
+      "title": "Theft by Clerk or Servant",
+      "category": "Property",
+      "keywords": [
+        "theft by clerk or servant",
+        "property",
+        "381"
+      ],
+      "description": "Legal provision related to theft by clerk or servant.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "382",
+      "title": "Theft with Preparation for Harm",
+      "category": "Property",
+      "keywords": [
+        "theft with preparation for harm",
+        "property",
+        "382"
+      ],
+      "description": "Legal provision related to theft with preparation for harm.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "383",
+      "title": "Extortion",
+      "category": "Property",
+      "keywords": [
+        "extortion",
+        "property",
+        "383"
+      ],
+      "description": "Legal provision related to extortion.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "384",
+      "title": "Punishment for Extortion",
+      "category": "Property",
+      "keywords": [
+        "punishment for extortion",
+        "property",
+        "384"
+      ],
+      "description": "Legal provision related to punishment for extortion.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "390",
+      "title": "Robbery",
+      "category": "Property",
+      "keywords": [
+        "robbery",
+        "property",
+        "390"
+      ],
+      "description": "Legal provision related to robbery.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "391",
+      "title": "Dacoity",
+      "category": "Property",
+      "keywords": [
+        "dacoity",
+        "property",
+        "391"
+      ],
+      "description": "Legal provision related to dacoity.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "392",
+      "title": "Punishment for Robbery",
+      "category": "Property",
+      "keywords": [
+        "punishment for robbery",
+        "property",
+        "392"
+      ],
+      "description": "Legal provision related to punishment for robbery.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "395",
+      "title": "Punishment for Dacoity",
+      "category": "Property",
+      "keywords": [
+        "punishment for dacoity",
+        "property",
+        "395"
+      ],
+      "description": "Legal provision related to punishment for dacoity.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "399",
+      "title": "Preparation for Dacoity",
+      "category": "Property",
+      "keywords": [
+        "preparation for dacoity",
+        "property",
+        "399"
+      ],
+      "description": "Legal provision related to preparation for dacoity.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "403",
+      "title": "Dishonest Misappropriation",
+      "category": "Property",
+      "keywords": [
+        "dishonest misappropriation",
+        "property",
+        "403"
+      ],
+      "description": "Legal provision related to dishonest misappropriation.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "405",
+      "title": "Criminal Breach of Trust",
+      "category": "Property",
+      "keywords": [
+        "criminal breach of trust",
+        "property",
+        "405"
+      ],
+      "description": "Legal provision related to criminal breach of trust.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "406",
+      "title": "Punishment for Criminal Breach of Trust",
+      "category": "Property",
+      "keywords": [
+        "punishment for criminal breach of trust",
+        "property",
+        "406"
+      ],
+      "description": "Legal provision related to punishment for criminal breach of trust.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "409",
+      "title": "Breach of Trust by Public Servant",
+      "category": "Property",
+      "keywords": [
+        "breach of trust by public servant",
+        "property",
+        "409"
+      ],
+      "description": "Legal provision related to breach of trust by public servant.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "415",
+      "title": "Cheating",
+      "category": "Fraud",
+      "keywords": [
+        "cheating",
+        "fraud",
+        "415"
+      ],
+      "description": "Legal provision related to cheating.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "416",
+      "title": "Cheating by Personation",
+      "category": "Fraud",
+      "keywords": [
+        "cheating by personation",
+        "fraud",
+        "416"
+      ],
+      "description": "Legal provision related to cheating by personation.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "419",
+      "title": "Punishment for Personation",
+      "category": "Fraud",
+      "keywords": [
+        "punishment for personation",
+        "fraud",
+        "419"
+      ],
+      "description": "Legal provision related to punishment for personation.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "420",
+      "title": "Cheating and Dishonest Inducement",
+      "category": "Fraud",
+      "keywords": [
+        "cheating and dishonest inducement",
+        "fraud",
+        "420"
+      ],
+      "description": "Legal provision related to cheating and dishonest inducement.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "421",
+      "title": "Fraudulent Concealment of Property",
+      "category": "Fraud",
+      "keywords": [
+        "fraudulent concealment of property",
+        "fraud",
+        "421"
+      ],
+      "description": "Legal provision related to fraudulent concealment of property.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "425",
+      "title": "Mischief",
+      "category": "Property Damage",
+      "keywords": [
+        "mischief",
+        "property damage",
+        "425"
+      ],
+      "description": "Legal provision related to mischief.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "427",
+      "title": "Mischief Causing Damage",
+      "category": "Property Damage",
+      "keywords": [
+        "mischief causing damage",
+        "property damage",
+        "427"
+      ],
+      "description": "Legal provision related to mischief causing damage.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "435",
+      "title": "Mischief by Fire",
+      "category": "Property Damage",
+      "keywords": [
+        "mischief by fire",
+        "property damage",
+        "435"
+      ],
+      "description": "Legal provision related to mischief by fire.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "436",
+      "title": "Arson of House",
+      "category": "Property Damage",
+      "keywords": [
+        "arson of house",
+        "property damage",
+        "436"
+      ],
+      "description": "Legal provision related to arson of house.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "441",
+      "title": "Criminal Trespass",
+      "category": "Trespass",
+      "keywords": [
+        "criminal trespass",
+        "trespass",
+        "441"
+      ],
+      "description": "Legal provision related to criminal trespass.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "447",
+      "title": "Punishment for Criminal Trespass",
+      "category": "Trespass",
+      "keywords": [
+        "punishment for criminal trespass",
+        "trespass",
+        "447"
+      ],
+      "description": "Legal provision related to punishment for criminal trespass.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "448",
+      "title": "House Trespass",
+      "category": "Trespass",
+      "keywords": [
+        "house trespass",
+        "trespass",
+        "448"
+      ],
+      "description": "Legal provision related to house trespass.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "463",
+      "title": "Forgery",
+      "category": "Documents",
+      "keywords": [
+        "forgery",
+        "documents",
+        "463"
+      ],
+      "description": "Legal provision related to forgery.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "465",
+      "title": "Punishment for Forgery",
+      "category": "Documents",
+      "keywords": [
+        "punishment for forgery",
+        "documents",
+        "465"
+      ],
+      "description": "Legal provision related to punishment for forgery.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "467",
+      "title": "Forgery of Valuable Security",
+      "category": "Documents",
+      "keywords": [
+        "forgery of valuable security",
+        "documents",
+        "467"
+      ],
+      "description": "Legal provision related to forgery of valuable security.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "468",
+      "title": "Forgery for Cheating",
+      "category": "Documents",
+      "keywords": [
+        "forgery for cheating",
+        "documents",
+        "468"
+      ],
+      "description": "Legal provision related to forgery for cheating.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "471",
+      "title": "Using Forged Document",
+      "category": "Documents",
+      "keywords": [
+        "using forged document",
+        "documents",
+        "471"
+      ],
+      "description": "Legal provision related to using forged document.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "477A",
+      "title": "Falsification of Accounts",
+      "category": "Documents",
+      "keywords": [
+        "falsification of accounts",
+        "documents",
+        "477A"
+      ],
+      "description": "Legal provision related to falsification of accounts.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "489A",
+      "title": "Counterfeit Currency",
+      "category": "Currency",
+      "keywords": [
+        "counterfeit currency",
+        "currency",
+        "489A"
+      ],
+      "description": "Legal provision related to counterfeit currency.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "489B",
+      "title": "Using Counterfeit Currency",
+      "category": "Currency",
+      "keywords": [
+        "using counterfeit currency",
+        "currency",
+        "489B"
+      ],
+      "description": "Legal provision related to using counterfeit currency.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "493",
+      "title": "Deceitful Cohabitation",
+      "category": "Marriage",
+      "keywords": [
+        "deceitful cohabitation",
+        "marriage",
+        "493"
+      ],
+      "description": "Legal provision related to deceitful cohabitation.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "494",
+      "title": "Bigamy",
+      "category": "Marriage",
+      "keywords": [
+        "bigamy",
+        "marriage",
+        "494"
+      ],
+      "description": "Legal provision related to bigamy.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "498A",
+      "title": "Cruelty by Husband or Relatives",
+      "category": "Women Safety",
+      "keywords": [
+        "cruelty by husband or relatives",
+        "women safety",
+        "498A"
+      ],
+      "description": "Legal provision related to cruelty by husband or relatives.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "499",
+      "title": "Defamation",
+      "category": "Reputation",
+      "keywords": [
+        "defamation",
+        "reputation",
+        "499"
+      ],
+      "description": "Legal provision related to defamation.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "500",
+      "title": "Punishment for Defamation",
+      "category": "Reputation",
+      "keywords": [
+        "punishment for defamation",
+        "reputation",
+        "500"
+      ],
+      "description": "Legal provision related to punishment for defamation.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "503",
+      "title": "Criminal Intimidation",
+      "category": "Threats",
+      "keywords": [
+        "criminal intimidation",
+        "threats",
+        "503"
+      ],
+      "description": "Legal provision related to criminal intimidation.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "506",
+      "title": "Punishment for Criminal Intimidation",
+      "category": "Threats",
+      "keywords": [
+        "punishment for criminal intimidation",
+        "threats",
+        "506"
+      ],
+      "description": "Legal provision related to punishment for criminal intimidation.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "507",
+      "title": "Anonymous Criminal Intimidation",
+      "category": "Threats",
+      "keywords": [
+        "anonymous criminal intimidation",
+        "threats",
+        "507"
+      ],
+      "description": "Legal provision related to anonymous criminal intimidation.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "509",
+      "title": "Insulting Modesty of Woman",
+      "category": "Women Safety",
+      "keywords": [
+        "insulting modesty of woman",
+        "women safety",
+        "509"
+      ],
+      "description": "Legal provision related to insulting modesty of woman.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "120B",
+      "title": "Criminal Conspiracy",
+      "category": "State",
+      "keywords": [
+        "criminal conspiracy",
+        "state",
+        "120B"
+      ],
+      "description": "Legal provision related to criminal conspiracy.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "121",
+      "title": "Waging War Against India",
+      "category": "State",
+      "keywords": [
+        "waging war against india",
+        "state",
+        "121"
+      ],
+      "description": "Legal provision related to waging war against india.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "124A",
+      "title": "Sedition (Historical IPC Reference)",
+      "category": "State",
+      "keywords": [
+        "sedition (historical ipc reference)",
+        "state",
+        "124A"
+      ],
+      "description": "Legal provision related to sedition (historical ipc reference).",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "141",
+      "title": "Unlawful Assembly",
+      "category": "Public Order",
+      "keywords": [
+        "unlawful assembly",
+        "public order",
+        "141"
+      ],
+      "description": "Legal provision related to unlawful assembly.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "143",
+      "title": "Punishment for Unlawful Assembly",
+      "category": "Public Order",
+      "keywords": [
+        "punishment for unlawful assembly",
+        "public order",
+        "143"
+      ],
+      "description": "Legal provision related to punishment for unlawful assembly.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "146",
+      "title": "Rioting",
+      "category": "Public Order",
+      "keywords": [
+        "rioting",
+        "public order",
+        "146"
+      ],
+      "description": "Legal provision related to rioting.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "147",
+      "title": "Punishment for Rioting",
+      "category": "Public Order",
+      "keywords": [
+        "punishment for rioting",
+        "public order",
+        "147"
+      ],
+      "description": "Legal provision related to punishment for rioting.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "148",
+      "title": "Rioting with Deadly Weapon",
+      "category": "Public Order",
+      "keywords": [
+        "rioting with deadly weapon",
+        "public order",
+        "148"
+      ],
+      "description": "Legal provision related to rioting with deadly weapon.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "149",
+      "title": "Common Object Liability",
+      "category": "Public Order",
+      "keywords": [
+        "common object liability",
+        "public order",
+        "149"
+      ],
+      "description": "Legal provision related to common object liability.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "153A",
+      "title": "Promoting Enmity Between Groups",
+      "category": "Public Order",
+      "keywords": [
+        "promoting enmity between groups",
+        "public order",
+        "153A"
+      ],
+      "description": "Legal provision related to promoting enmity between groups.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "166",
+      "title": "Public Servant Disobeying Law",
+      "category": "Public Servant",
+      "keywords": [
+        "public servant disobeying law",
+        "public servant",
+        "166"
+      ],
+      "description": "Legal provision related to public servant disobeying law.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "166A",
+      "title": "Public Servant Disobeying Direction",
+      "category": "Public Servant",
+      "keywords": [
+        "public servant disobeying direction",
+        "public servant",
+        "166A"
+      ],
+      "description": "Legal provision related to public servant disobeying direction.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "170",
+      "title": "Personating Public Servant",
+      "category": "Public Servant",
+      "keywords": [
+        "personating public servant",
+        "public servant",
+        "170"
+      ],
+      "description": "Legal provision related to personating public servant.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "171B",
+      "title": "Bribery",
+      "category": "Election",
+      "keywords": [
+        "bribery",
+        "election",
+        "171B"
+      ],
+      "description": "Legal provision related to bribery.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "171C",
+      "title": "Undue Influence at Elections",
+      "category": "Election",
+      "keywords": [
+        "undue influence at elections",
+        "election",
+        "171C"
+      ],
+      "description": "Legal provision related to undue influence at elections.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "186",
+      "title": "Obstructing Public Servant",
+      "category": "Public Servant",
+      "keywords": [
+        "obstructing public servant",
+        "public servant",
+        "186"
+      ],
+      "description": "Legal provision related to obstructing public servant.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "188",
+      "title": "Disobedience to Order",
+      "category": "Public Servant",
+      "keywords": [
+        "disobedience to order",
+        "public servant",
+        "188"
+      ],
+      "description": "Legal provision related to disobedience to order.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "191",
+      "title": "Giving False Evidence",
+      "category": "Justice",
+      "keywords": [
+        "giving false evidence",
+        "justice",
+        "191"
+      ],
+      "description": "Legal provision related to giving false evidence.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "193",
+      "title": "Punishment for False Evidence",
+      "category": "Justice",
+      "keywords": [
+        "punishment for false evidence",
+        "justice",
+        "193"
+      ],
+      "description": "Legal provision related to punishment for false evidence.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "201",
+      "title": "Disappearance of Evidence",
+      "category": "Justice",
+      "keywords": [
+        "disappearance of evidence",
+        "justice",
+        "201"
+      ],
+      "description": "Legal provision related to disappearance of evidence.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "204",
+      "title": "Destruction of Evidence",
+      "category": "Justice",
+      "keywords": [
+        "destruction of evidence",
+        "justice",
+        "204"
+      ],
+      "description": "Legal provision related to destruction of evidence.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "211",
+      "title": "False Charge",
+      "category": "Justice",
+      "keywords": [
+        "false charge",
+        "justice",
+        "211"
+      ],
+      "description": "Legal provision related to false charge.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "212",
+      "title": "Harbouring Offender",
+      "category": "Justice",
+      "keywords": [
+        "harbouring offender",
+        "justice",
+        "212"
+      ],
+      "description": "Legal provision related to harbouring offender.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "216A",
+      "title": "Harbouring Robbers or Dacoits",
+      "category": "Justice",
+      "keywords": [
+        "harbouring robbers or dacoits",
+        "justice",
+        "216A"
+      ],
+      "description": "Legal provision related to harbouring robbers or dacoits.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "228A",
+      "title": "Disclosure of Victim Identity",
+      "category": "Justice",
+      "keywords": [
+        "disclosure of victim identity",
+        "justice",
+        "228A"
+      ],
+      "description": "Legal provision related to disclosure of victim identity.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "268",
+      "title": "Public Nuisance",
+      "category": "Public Safety",
+      "keywords": [
+        "public nuisance",
+        "public safety",
+        "268"
+      ],
+      "description": "Legal provision related to public nuisance.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "269",
+      "title": "Negligent Spread of Disease",
+      "category": "Public Safety",
+      "keywords": [
+        "negligent spread of disease",
+        "public safety",
+        "269"
+      ],
+      "description": "Legal provision related to negligent spread of disease.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "270",
+      "title": "Malignant Spread of Disease",
+      "category": "Public Safety",
+      "keywords": [
+        "malignant spread of disease",
+        "public safety",
+        "270"
+      ],
+      "description": "Legal provision related to malignant spread of disease.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "272",
+      "title": "Food Adulteration",
+      "category": "Public Safety",
+      "keywords": [
+        "food adulteration",
+        "public safety",
+        "272"
+      ],
+      "description": "Legal provision related to food adulteration.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "279",
+      "title": "Rash Driving",
+      "category": "Public Safety",
+      "keywords": [
+        "rash driving",
+        "public safety",
+        "279"
+      ],
+      "description": "Legal provision related to rash driving.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "285",
+      "title": "Negligence with Fire",
+      "category": "Public Safety",
+      "keywords": [
+        "negligence with fire",
+        "public safety",
+        "285"
+      ],
+      "description": "Legal provision related to negligence with fire.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "292",
+      "title": "Obscene Material",
+      "category": "Morality",
+      "keywords": [
+        "obscene material",
+        "morality",
+        "292"
+      ],
+      "description": "Legal provision related to obscene material.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "294",
+      "title": "Obscene Acts and Songs",
+      "category": "Morality",
+      "keywords": [
+        "obscene acts and songs",
+        "morality",
+        "294"
+      ],
+      "description": "Legal provision related to obscene acts and songs.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    },
+    {
+      "section": "295A",
+      "title": "Outraging Religious Feelings",
+      "category": "Religion",
+      "keywords": [
+        "outraging religious feelings",
+        "religion",
+        "295A"
+      ],
+      "description": "Legal provision related to outraging religious feelings.",
+      "recommended_action": "Consult an advocate and collect supporting evidence."
+    }
+  ]
+}
